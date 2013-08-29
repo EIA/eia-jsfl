@@ -1,7 +1,7 @@
 eia-jsfl
 ========
 
-* 安裝jsfl命令:
+* 安裝jsfl命令:<br/>
 先開啟Flash IDE 介面,<br/>
 並在命令>執行命令<br/>
  (commands > Runcommand)
