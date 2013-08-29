@@ -23,7 +23,7 @@ eia-jsfl
 	就能取得安裝命令的資料夾路徑了
 
 * 安裝命令:<br/>
-	在mac 上，可以使用`symbolic link`<br/>
+	在mac 上，可以使用`symbolic link`，<br/>
 	將整個eia-jsfl的路徑指到flash IDE 的命令資料夾
 
 > 未完待續
