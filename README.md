@@ -1,12 +1,7 @@
-[[eia-jsfl]]
+eia-jsfl
 ========
 
 * 安裝jsfl命令:<br/>
-
-
-
-
-
 
 1.開啟Flash IDE,<br/>
 2.新增`Flash JavaScript 檔案`
