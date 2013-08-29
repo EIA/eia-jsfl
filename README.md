@@ -21,4 +21,4 @@
   在mac 上,
   可以使用symbolic link 將整個eia-jsfl的路徑指到flash IDE 的命令資料夾
 
-
+> 未完待續
