@@ -1,4 +1,4 @@
-eia-jsfl
+[[eia-jsfl]]
 ========
 
 * 安裝jsfl命令:<br/>
@@ -17,6 +17,8 @@ eia-jsfl
 ```
 就能取得安裝命令的路徑了
 
-
+* 安裝
+  在mac 上,
+  可以使用symbolic link 將整個eia-jsfl的路徑指到flash IDE 的命令資料夾
 
 
