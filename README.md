@@ -1,7 +1,9 @@
 eia-jsfl
 ========
 
-* 安裝jsfl命令:<br/>
+* 取得jsfl安裝路徑:<br/>
+> 由於不是使用 .mxp 安裝，安裝路徑需要找一下
+> 不同版本的Flash，安裝路徑不同
 
 1. 開啟Flash IDE，<br/>
 2. 新增`Flash JavaScript 檔案`，
