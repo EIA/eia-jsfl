@@ -6,7 +6,7 @@ eia-jsfl
 > 由於不是使用 .mxp 安裝，安裝路徑需要找一下<br/>
 > 不同版本的Flash，安裝路徑不同
 
-1. 開啟Flash IDE，<br/>
+1. 開啟Flash IDE<br/>
 2. 新增`Flash JavaScript 檔案`，
 
 	```Javascript
