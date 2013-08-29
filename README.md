@@ -2,11 +2,14 @@
 ========
 
 * 安裝jsfl命令:<br/>
-先開啟Flash IDE 介面,<br/>
-並在命令>執行命令<br/>
- (commands > Runcommand)
 
 
+
+
+
+
+1.開啟Flash IDE,<br/>
+2.新增`Flash JavaScript 檔案`
 ```Javascript
   // 清除 輸出畫面
   fl.outputPanel.clear();
@@ -15,10 +18,14 @@
   // 回傳為 /Users/ 格式
   fl.trace(fl.configDirectory);
 ```
-就能取得安裝命令的路徑了
+  儲存
+3.隨意開一個Flash專案
+4.命令>執行命令commands > Runcommand), 選擇剛剛的.jsfl
+
+就能取得安裝命令的資料夾路徑了
 
 * 安裝
   在mac 上,
-  可以使用symbolic link 將整個eia-jsfl的路徑指到flash IDE 的命令資料夾
+  可以使用`symbolic link` 將整個eia-jsfl的路徑指到flash IDE 的命令資料夾
 
 > 未完待續
